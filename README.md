@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on an iPhone app that tracks your fitness journey! I plan to have the app in beta testing soon! 
+- 🌱 I’m currently learning React and React Native, Firebase as well!
+- 👯 I’m looking to collaborate on Mobile Applications and Games
+- 🤔 I’m looking for help with finding a new Software Engineering Job
+- 💬 Ask me about App Dev! I'm really wanting to make a super big app to impact the world.
+- 📫 How to reach me: jordaus@ksu.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I used to live in Australia for 4 years!
 
 <!--
 **jordaus/jordaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
