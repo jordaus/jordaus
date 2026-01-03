@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Mobile Applications and Games
 - 🤔 I’m looking for help with finding a new Software Engineering Job
 - 💬 Ask me about App Dev! I'm really wanting to make a super big app to impact the world.
-- 📫 How to reach me: jordaus@ksu.edu
+- 📫 How to reach me: jordiaustin5@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I used to live in Australia for 4 years!
 
